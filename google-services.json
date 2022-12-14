@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738135964110",
+    "project_id": "react-native-notificatio-8fe2b",
+    "storage_bucket": "react-native-notificatio-8fe2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738135964110:android:010ec449bdbe460997139f",
+        "android_client_info": {
+          "package_name": "com.yanitedfan.reactnativenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738135964110-sjqhv9m8vfn27r6nmhkdtt01s51booi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yanitedfan.reactnativenotifications",
+            "certificate_hash": "dcde114f396b61a869c6f27a5eee6b6c660389cf"
+          }
+        },
+        {
+          "client_id": "738135964110-7ge2lpdgfs6n8c55a80h8sihgavuu2p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUMo2GyCZFsk4z90J3O6TZdVAYO0AzyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738135964110-7ge2lpdgfs6n8c55a80h8sihgavuu2p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
